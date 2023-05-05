@@ -1,0 +1,14 @@
+{
+    "name": "Zivra Java CI Workflow",
+    "description": "Zivra Java CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml$",
+        "build.gradle$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
