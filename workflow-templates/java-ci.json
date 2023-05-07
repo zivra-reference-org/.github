@@ -3,7 +3,7 @@
     "description": "Zivra Java CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Java"
+        "continuous-integration"
     ],
     "filePatterns": [
         "pom.xml$",
