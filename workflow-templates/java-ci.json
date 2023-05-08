@@ -10,5 +10,6 @@
         "build.gradle$",
         "^Dockerfile",
         ".*\\.md$"
-    ]
+    ],
+    "labels": [ "preview" ]
 }
